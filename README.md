@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sawah</h1>
 <h3 align="center">I'm Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsawahzc&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsawahzc" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedsawahzc" alt="mohamedsawahzc" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedSawahZC?tab=repositories](https://github.com/MohamedSawahZC?tab=repositories)
 
