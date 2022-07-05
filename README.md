@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sawah</h1>
 <h3 align="center">I'm Software Engineer</h3>
 
+<img src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Akshat%20Rastogi%20(13).png">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/mohamed-sawah-4b254a1b2/)](https://www.linkedin.com/in/mohamed-sawah-4b254a1b2/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mohamedsawahzc/)](https://www.instagram.com/mohamedsawahzc/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sawah810@gmail.com)](mailto:sawah810@gmail.com)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedsawahzc" alt="mohamedsawahzc" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohamedSawahZC?tab=repositories](https://github.com/MohamedSawahZC?tab=repositories)
