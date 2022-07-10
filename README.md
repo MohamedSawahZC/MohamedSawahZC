@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Sawah</h1>
 <h3 align="center">I'm Software Engineer</h3>
 
-<img src="https://github.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/blob/main/Akshat%20Rastogi%20(13).png">
+<img src="https://github.com/MohamedSawahZC/MohamedSawahZC/blob/main/sawah.png">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/mohamed-sawah-4b254a1b2/)](https://www.linkedin.com/in/mohamed-sawah-4b254a1b2/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/mohamedsawahzc/)](https://www.instagram.com/mohamedsawahzc/)
