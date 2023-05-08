@@ -110,7 +110,7 @@
 ###
 
 <div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mohamedsawah&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
