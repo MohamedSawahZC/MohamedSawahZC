@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/72xio3.jpg"  />
+  <img height="200" src="https://res.cloudinary.com/e-sawah/image/upload/v1706787240/linkedInCover.jpg"  />
 </div>
 
 ###
