@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img width="100%" src="https://res.cloudinary.com/e-sawah/image/upload/fl_preserve_transparency/v1714795403/LinkedIn_cover_-_14000X_ro1gbf.jpg"  />
+  <img width="100%" src="https://res.cloudinary.com/e-sawah/image/upload/v1706787240/linkedInCover.jpg"  />
 </div>
 
 ###
